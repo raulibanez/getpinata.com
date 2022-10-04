@@ -183,9 +183,34 @@ code {
     cursor: pointer;
     z-index: 10000;
     border: 0;
+    margin-right: 10px;
+}
+
+.button-doc {
+    width: 180px;
+    height: 45px;
+    margin-top: 20px;
+    border-radius: 6px;
+    background: #313131;
+    color: rgb(201, 201, 201);
+    font: 15px/1.2 "Inter", Helvetica, Arial, serif;
+    font-weight: 200;
+    cursor: pointer;
+    z-index: 10000;
+    border: 0;
+    margin-right: 10px;
 }
 
 .discord {
     padding-right: 8px;
     width: 38px;
+    height: 38px;
+    z-index: 10000;
+}
+
+.docs {
+    padding-right: 8px;
+    width: 32px;
+    height: 38px;
+    z-index: 10000;
 }
