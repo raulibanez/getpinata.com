@@ -20,7 +20,7 @@
   height: -moz-min-content;
   height: min-content;
   width: 55.64%;
-  margin: 370px auto; }
+  margin: auto; }
   @media (max-width: 1199px) {
     .screen-flex.layout {
       margin: 286px auto; } }
