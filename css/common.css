@@ -201,6 +201,21 @@ code {
     margin-right: 10px;
 }
 
+.button-coffee {
+    width: 180px;
+    height: 45px;
+    margin-top: 20px;
+    border-radius: 6px;
+    background: #FFDD00;
+    color: rgb(0, 0, 0);
+    font: 15px/1.2 "Inter", Helvetica, Arial, serif;
+    font-weight: 600;
+    cursor: pointer;
+    z-index: 10000;
+    border: 0;
+    margin-right: 10px;
+}
+
 .discord {
     padding-right: 8px;
     width: 38px;
@@ -211,6 +226,13 @@ code {
 .docs {
     padding-right: 8px;
     width: 32px;
+    height: 38px;
+    z-index: 10000;
+}
+
+.coffee {
+    padding-right: 8px;
+    width: 38px;
     height: 38px;
     z-index: 10000;
 }
