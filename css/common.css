@@ -236,3 +236,22 @@ code {
     height: 38px;
     z-index: 10000;
 }
+
+footer {
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    padding: 10px 0;
+  }
+  
+  footer a {
+    color: #ffffff7f;
+    margin-right: 20px;
+    text-decoration: none;
+  }
+  
+  footer a:last-child {
+    margin-right: 0;
+  }
+  
